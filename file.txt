@@ -1,7 +1,8 @@
 Git is awesome 
 Syam Sundar son of Kirubakaran
-syam
+SYAM
 Love this a lot
 a code full of bugs
 this is syam editing from gitgub.. 
 need to see if the changes are reflected in my local files
+<<The document is all done..>>
